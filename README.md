@@ -13,7 +13,7 @@ results from the last iteration and made a plan for evaluate the chatbot. The pl
 executed with five participants. In our conclusion we discuss the results from the evaluation
 in the light of our research question.
 
-Technologies are used : Microsoft Azure Static Web App HTML,CSS,JAVAScript,AI+Machine Learning
+Technologies are used : Microsoft Azure AI + Machine Learning, Web Apps with basics of front end like HTML, CSS, Javascript.
 
 and as far I will not boring you here are the some usefull links for my project using:
 
